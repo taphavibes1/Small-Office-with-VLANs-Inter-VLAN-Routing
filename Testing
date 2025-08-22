@@ -1,0 +1,4 @@
+Sales ↔ HR → ❌ (blocked by VLANs)
+Sales ↔ File Server → ✅
+HR ↔ File Server → ✅
+Router ↔ All VLANs → ✅
